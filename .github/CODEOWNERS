@@ -1,0 +1,4 @@
+# Every pull request is reviewed by the owner unless a more specific rule applies.
+*                @professordiogodev
+/docs/           @professordiogodev
+/.github/        @professordiogodev

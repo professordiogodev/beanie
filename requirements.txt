@@ -1,0 +1,12 @@
+# Runtime dependencies only. Test and lint tools live in requirements-dev.txt.
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+httpx==0.28.1
+prometheus-client==0.21.1
+psycopg[binary,pool]==3.2.3
+opentelemetry-api==1.29.0
+opentelemetry-sdk==1.29.0
+opentelemetry-exporter-otlp-proto-http==1.29.0
+opentelemetry-instrumentation-fastapi==0.50b0
+opentelemetry-instrumentation-httpx==0.50b0
